@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196243508722",
+    "project_id": "camtext-1cb4d",
+    "storage_bucket": "camtext-1cb4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196243508722:android:a2f9931e415774591e6f6b",
+        "android_client_info": {
+          "package_name": "com.siddheswar.camtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196243508722-9pcupep24ktni9o70iohv9s65lm6avpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNq0KXSlLOZ7Vmd09HpQVNHKeuefam8gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196243508722-9pcupep24ktni9o70iohv9s65lm6avpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
