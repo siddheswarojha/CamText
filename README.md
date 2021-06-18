@@ -1,5 +1,5 @@
 # CamText
-"This Github Repository is currently under development"\
+"This Github Repository is currently under development"
 
 
 "Hey Folks, CamText, and android application which is aimed to solve many current problems related to image processing." Currently this is the very basic application but
